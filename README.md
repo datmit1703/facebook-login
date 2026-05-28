@@ -1,4 +1,4 @@
-# Facebook Login Page
+<img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 13" src="https://github.com/user-attachments/assets/528c0ad8-fb27-46ba-8c66-80fc6b650bb6" /><img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 03" src="https://github.com/user-attachments/assets/9a8fa126-b538-4c5b-9d0a-b7145a947225" /><img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 03" src="https://github.com/user-attachments/assets/479a868a-d481-4f84-be86-56360002d4fa" /><img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 03" src="https://github.com/user-attachments/assets/1691b3b3-b575-460e-8449-8ad3868a54ac" /># Facebook Login Page
 
 ## English
 
@@ -46,9 +46,20 @@ Below is an image preview of the project.
 
 下にはプロジェクトのイメージ画像があります。
 
-![Uploading Ảnh màn hình 2026-05-28 lúc 13.51.23.png…]()
-![Uploading Ảnh màn hình 2026-05-28 lúc 13.51.14.png…]()
-![Uploading Ảnh màn hình 2026-05-28 lúc 13.50.13.png…]()
-![Uploading Ảnh màn hình 2026-05-28 lúc 13.50.03.png…]()
+### PC
+
+<img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 03" src="https://github.com/user-attachments/assets/b2643954-7be5-48bd-926e-5322571f3ba2" />
+
+<img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 13" src="https://github.com/user-attachments/assets/58e90c88-c5cc-4897-9755-d3da5422abb3" />
+
+### Table
+<img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 51 23" src="https://github.com/user-attachments/assets/43a7381a-efb3-4b46-8559-f7287b2876cc" />
+
+### Mobile
+<img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 51 14" src="https://github.com/user-attachments/assets/28e013ac-885e-4ec7-bbbd-d58b9580624e" />
+
+
+
+
 
 
