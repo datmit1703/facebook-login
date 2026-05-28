@@ -1,5 +1,3 @@
-<img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 13" src="https://github.com/user-attachments/assets/528c0ad8-fb27-46ba-8c66-80fc6b650bb6" /><img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 03" src="https://github.com/user-attachments/assets/9a8fa126-b538-4c5b-9d0a-b7145a947225" /><img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 03" src="https://github.com/user-attachments/assets/479a868a-d481-4f84-be86-56360002d4fa" /><img width="1440" height="900" alt="Ảnh màn hình 2026-05-28 lúc 13 50 03" src="https://github.com/user-attachments/assets/1691b3b3-b575-460e-8449-8ad3868a54ac" /># Facebook Login Page
-
 ## English
 
 This is a Facebook login page that I created by myself after finishing my HTML5 and CSS3 studies.
