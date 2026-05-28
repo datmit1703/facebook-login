@@ -46,5 +46,9 @@ Below is an image preview of the project.
 
 下にはプロジェクトのイメージ画像があります。
 
-<img width="1267" height="783" alt="Ảnh màn hình 2026-05-28 lúc 10 35 37" src="https://github.com/user-attachments/assets/91d4ff7a-d352-4c6c-8338-d0207ad0e2e7" />
+![Uploading Ảnh màn hình 2026-05-28 lúc 13.51.23.png…]()
+![Uploading Ảnh màn hình 2026-05-28 lúc 13.51.14.png…]()
+![Uploading Ảnh màn hình 2026-05-28 lúc 13.50.13.png…]()
+![Uploading Ảnh màn hình 2026-05-28 lúc 13.50.03.png…]()
+
 
